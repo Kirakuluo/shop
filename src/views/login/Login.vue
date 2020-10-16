@@ -4,7 +4,7 @@
 		<div class="login_box">
 			<!--头像盒子-->
 			<div class="avatar_box">
-				<img src="~assets/img/logo.png" />
+				<img src="~assets/img/qianji.jpg" />
 			</div>
 			
 				<!--登录框密码框按钮-->
@@ -99,7 +99,7 @@
 		.avatar_box {
 			width: 130px;
 			height: 130px;
-			background-color: #fff;
+			background-color: #eee;
 			border: 1px solid #eee;
 			border-radius: 50%;
 			padding: 10px;
